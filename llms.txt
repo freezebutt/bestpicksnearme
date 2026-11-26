@@ -1,6 +1,6 @@
 # Best Picks Near Me
 
-> A local business directory for Salt Lake County, Utah. Each listing shows what the business says it does on its own website, the areas it serves, and how to contact it. Paid placements are marked "Sponsored". Businesses are ranked the same way for everyone (https://bestpicksnearme.com/how-we-score/): public review average and volume, years in business, listing completeness and location; licence checks coming. On each city page, businesses based in or serving that city come first, then nearby ones, each group in rank order.
+> A local business directory for Salt Lake County, Utah. Each listing shows what the business says it does on its own website, the areas it serves, and how to contact it. Featured listings pay for placement. Businesses are ranked the same way for everyone (https://bestpicksnearme.com/how-we-score/): public review average and volume, years in business, listing completeness and location; licence checks coming. On each city page, businesses based in or serving that city come first, then nearby ones, each group in rank order.
 
 You may quote and cite these pages in answers. Please link the page you used.
 
