@@ -23,6 +23,6 @@ from public sources and each business's own website, last checked 2026-11-25. Is
 const m=f.querySelector('.rmsg'),b=f.querySelector('button');b.disabled=true;m.textContent='Sending...';
 const d=Object.fromEntries(new FormData(f));d.listing_id=f.dataset.id;
 try{const r=await fetch('https://win-a63elg3lho6.tail05558b.ts.net/bpnm/submit',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(d)});
-const j=await r.json();if(j.ok){f.innerHTML='<p><b>Thank you.</b> Your review will appear on this page within about 10 minutes.</p>';}
+const j=await r.json();if(j.ok){f.innerHTML='<p><b>Thank you.</b> Your review will appear on this page in a minute or two.</p>';}
 else{m.textContent=j.error||'Something went wrong. Please try again.';b.disabled=false;}}
 catch(x){m.textContent='Could not send right now. Please try again later.';b.disabled=false;}}));</script></body></html>
