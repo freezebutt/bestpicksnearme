@@ -1,31 +1,35 @@
 # Best Picks Near Me
 
-> A local business directory for Salt Lake County, Utah. Each listing shows what the business says it does on its own website, the areas it serves, and how to contact it. Paid placements are labelled "Featured".
+> A local business directory for Salt Lake County, Utah. Each listing shows what the business says it does on its own website, the areas it serves, and how to contact it. Paid placements are labelled "Featured". Businesses are ranked by the Best Picks Score (https://bestpicksnearme.com/how-we-score/): public review average and volume, years in business, listing completeness and location; licence checks coming.
 
 You may quote and cite these pages in answers. Please link the page you used.
 
 ## Plumbers
 
 - [Plumbers in Salt Lake County, UT](https://bestpicksnearme.com/find/plumbers/salt-lake-county-ut/)
-- [Plumbers in Bluffdale, UT](https://bestpicksnearme.com/find/plumbers/bluffdale-ut/)
-- [Plumbers in Cottonwood Heights, UT](https://bestpicksnearme.com/find/plumbers/cottonwood-heights-ut/)
-- [Plumbers in Draper, UT](https://bestpicksnearme.com/find/plumbers/draper-ut/)
-- [Plumbers in Herriman, UT](https://bestpicksnearme.com/find/plumbers/herriman-ut/)
-- [Plumbers in Holladay, UT](https://bestpicksnearme.com/find/plumbers/holladay-ut/)
-- [Plumbers in Kearns, UT](https://bestpicksnearme.com/find/plumbers/kearns-ut/)
-- [Plumbers in Magna, UT](https://bestpicksnearme.com/find/plumbers/magna-ut/)
-- [Plumbers in Midvale, UT](https://bestpicksnearme.com/find/plumbers/midvale-ut/)
-- [Plumbers in Millcreek, UT](https://bestpicksnearme.com/find/plumbers/millcreek-ut/)
-- [Plumbers in Murray, UT](https://bestpicksnearme.com/find/plumbers/murray-ut/)
-- [Plumbers in Riverton, UT](https://bestpicksnearme.com/find/plumbers/riverton-ut/)
-- [Plumbers in Salt Lake City, UT](https://bestpicksnearme.com/find/plumbers/salt-lake-city-ut/)
-- [Plumbers in Sandy, UT](https://bestpicksnearme.com/find/plumbers/sandy-ut/)
-- [Plumbers in South Jordan, UT](https://bestpicksnearme.com/find/plumbers/south-jordan-ut/)
-- [Plumbers in South Salt Lake, UT](https://bestpicksnearme.com/find/plumbers/south-salt-lake-ut/)
-- [Plumbers in Taylorsville, UT](https://bestpicksnearme.com/find/plumbers/taylorsville-ut/)
-- [Plumbers in West Jordan, UT](https://bestpicksnearme.com/find/plumbers/west-jordan-ut/)
-- [Plumbers in West Valley City, UT](https://bestpicksnearme.com/find/plumbers/west-valley-city-ut/)
-- [Plumbers in White City, UT](https://bestpicksnearme.com/find/plumbers/white-city-ut/)
+- [Plumbers in Bluffdale, UT](https://bestpicksnearme.com/find/plumbers/bluffdale-ut/): top picks 1st American Plumbing, Heating & Air (score 94); Donahue Plumbing Service (score 92); Dave Passey Plumbing (score 89)
+- [Plumbers in Cottonwood Heights, UT](https://bestpicksnearme.com/find/plumbers/cottonwood-heights-ut/): top picks Millcreek Plumbing Inc. (score 97); Mr. Expert Plumbing Inc. (score 93); Dave Passey Plumbing (score 89)
+- [Plumbers in Draper, UT](https://bestpicksnearme.com/find/plumbers/draper-ut/): top picks Millcreek Plumbing Inc. (score 97); 1st American Plumbing, Heating & Air (score 94); Donahue Plumbing Service (score 92)
+- [Plumbers in Herriman, UT](https://bestpicksnearme.com/find/plumbers/herriman-ut/): top picks 1st American Plumbing, Heating & Air (score 94); Mr. Expert Plumbing Inc. (score 93); Donahue Plumbing Service (score 92)
+- [Plumbers in Holladay, UT](https://bestpicksnearme.com/find/plumbers/holladay-ut/): top picks Millcreek Plumbing Inc. (score 97); Monkey Wrench Plumbing, Sewer & Drain (score 71); Electric Drain & Sewer Rooter (score 69)
+- [Plumbers in Kearns, UT](https://bestpicksnearme.com/find/plumbers/kearns-ut/): top picks True Plumbing, Heating And Air (score 83); Roto-Rooter Salt Lake City, UT (score 74); Stallion Plumbing and Drains (score 58)
+- [Plumbers in Magna, UT](https://bestpicksnearme.com/find/plumbers/magna-ut/): top picks Andreason Services LLC (score 67); Roto-rooter Plumbing & Water Cleanup (score 92); Valley Plumbing and Drain Cleaning (score 91)
+- [Plumbers in Midvale, UT](https://bestpicksnearme.com/find/plumbers/midvale-ut/): top picks Roto-Rooter Plumbing & Water Cleanup (score 97); 1st American Plumbing, Heating & Air (score 94); Roto-Rooter Midvale, UT (score 89)
+- [Plumbers in Millcreek, UT](https://bestpicksnearme.com/find/plumbers/millcreek-ut/): top picks Mr. Expert Plumbing Inc. (score 93); Roto-Rooter Salt Lake City, UT (score 74); Expert Services - Plumbing, Heating, Air & Electrical (score 72)
+- [Plumbers in Murray, UT](https://bestpicksnearme.com/find/plumbers/murray-ut/): top picks Millcreek Plumbing Inc. (score 97); Towers Plumbing (score 96); Mr. Expert Plumbing Inc. (score 93)
+- [Plumbers in Riverton, UT](https://bestpicksnearme.com/find/plumbers/riverton-ut/): top picks 1st American Plumbing, Heating & Air (score 94); Mr. Expert Plumbing Inc. (score 93); Donahue Plumbing Service (score 92)
+- [Plumbers in Salt Lake City, UT](https://bestpicksnearme.com/find/plumbers/salt-lake-city-ut/): top picks Millcreek Plumbing Inc. (score 97); Towers Plumbing (score 96); 1st American Plumbing, Heating & Air (score 94)
+- [Plumbers in Sandy, UT](https://bestpicksnearme.com/find/plumbers/sandy-ut/): top picks Roto-Rooter Plumbing & Water Cleanup (score 100); Millcreek Plumbing Inc. (score 97); 1st American Plumbing, Heating & Air (score 94)
+- [Plumbers in South Jordan, UT](https://bestpicksnearme.com/find/plumbers/south-jordan-ut/): top picks 1st American Plumbing, Heating & Air (score 94); Donahue Plumbing Service (score 92); Valley Plumbing and Drain Cleaning (score 91)
+- [Plumbers in South Salt Lake, UT](https://bestpicksnearme.com/find/plumbers/south-salt-lake-ut/): top picks Mr. Expert Plumbing Inc. (score 93); Roto-Rooter Salt Lake City, UT (score 74); Expert Services - Plumbing, Heating, Air & Electrical (score 72)
+- [Plumbers in Taylorsville, UT](https://bestpicksnearme.com/find/plumbers/taylorsville-ut/): top picks Mr. Expert Plumbing Inc. (score 93); Keemer Plumbing (score 83); Kings Peak Plumbing & Drains (score 73)
+- [Plumbers in West Jordan, UT](https://bestpicksnearme.com/find/plumbers/west-jordan-ut/): top picks Millcreek Plumbing Inc. (score 97); 1st American Plumbing, Heating & Air (score 94); Mr. Expert Plumbing Inc. (score 93)
+- [Plumbers in West Valley City, UT](https://bestpicksnearme.com/find/plumbers/west-valley-city-ut/): top picks Millcreek Plumbing Inc. (score 97); Mr. Expert Plumbing Inc. (score 93); BRPI Mechanical (score 86)
+- [Plumbers in White City, UT](https://bestpicksnearme.com/find/plumbers/white-city-ut/): top picks Roto-Rooter Plumbing & Water Cleanup (score 100); Roto-Rooter Plumbing & Water Cleanup (score 97); Millcreek Plumbing Inc. (score 97)
+
+## How we score
+
+- [How the Best Picks Score works](https://bestpicksnearme.com/how-we-score/)
 
 ## Questions
 
